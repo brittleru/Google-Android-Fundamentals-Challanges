@@ -1,0 +1,2 @@
+rootProject.name = "ViewsChallange"
+include ':app'
