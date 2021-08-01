@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">ViewGroups-Login</string>
     <string name="terms">I accept T&amp;C</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="acc_terms">Accepted terms</string>
+
 </resources>

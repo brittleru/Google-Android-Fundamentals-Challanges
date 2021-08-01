@@ -19,21 +19,21 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="start"
-            android:text="Login"
+            android:text="@string/login"
             android:textAllCaps="true"
             android:textSize="24sp"
             android:textStyle="bold"
             android:textColor="@color/orange"
             android:layout_marginBottom="20dp"
             android:layout_marginTop="20dp"
-            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
             />
 
         <EditText
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:id="@+id/email"
-            android:hint="Email"
+            android:hint="@string/email"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
             android:inputType="textEmailAddress"
@@ -43,7 +43,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:id="@+id/password"
-            android:hint="Password"
+            android:hint="@string/password"
             android:inputType="textPassword"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
@@ -54,7 +54,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/terms"
-            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
             android:id="@+id/acceptTerms"
             />
 
@@ -63,7 +63,7 @@
             android:layout_height="match_parent"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
-            android:text="Submit"
+            android:text="@string/submit"
             android:textAllCaps="true"
             android:textStyle="bold"
             android:id="@+id/submitButton"
@@ -83,7 +83,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/displayEmail"
-            android:text="Email: "
+            android:text="@string/email"
             android:gravity="center"
 
 
@@ -93,7 +93,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/displayAccept"
-            android:text="Accepted terms "
+            android:text="@string/acc_terms"
             android:gravity="center"
 
 
