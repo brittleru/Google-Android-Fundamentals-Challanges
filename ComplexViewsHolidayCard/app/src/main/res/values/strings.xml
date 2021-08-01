@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ComplexViews-HolidayCard</string>
+    <string name="fromTroubles">From now on, our troubles will be out of sight</string>
+    <string name="letHeart">Let your heart be light</string>
+    <string name="haveChristmas">Have yourself a merry little Christmas,</string>
+    <string name="sebastian">From Sebastian</string>
+    <string name="happyHoliday">Happy Holydays!</string>
+    <string name="spark">Sparkling</string>
+    <string name="yay">Happy Holiday!</string>
+    <string name="gingleButton">Gingles Bells</string>
+    <string name="snowButton">Let It Snow</string>
+</resources>
