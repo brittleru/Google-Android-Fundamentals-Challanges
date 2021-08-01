@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewGroups-ScrollArray</string>
+    <string name="scrollview_and_relativelayout">ScrollView and RelativeLayout</string>
+    <string name="framelayout">FrameLayout</string>
+    <string name="spinner_array">Spinner Array</string>
+    <string name="spinnerTitle">My First Yaya!</string>
+</resources>
