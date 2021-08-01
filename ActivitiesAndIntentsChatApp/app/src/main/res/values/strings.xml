@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivitiesAndIntents-ChatApp</string>
+    <string name="message">Message...</string>
+    <string name="send">Send</string>
+
+    <string name="msgRec">Message Received</string>
+    <string name="rplRec">Reply Received</string>
+</resources>
