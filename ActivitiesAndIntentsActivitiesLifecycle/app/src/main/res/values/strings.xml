@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ActivitiesAndIntents-ActivitiesLifecycle</string>
+    <string name="another">Go to another activity</string>
+    <string name="title1">First Activity</string>
+    <string name="oncreate">onCreate():</string>
+    <string name="onstart">onStart():</string>
+    <string name="onresume">onResume():</string>
+    <string name="onpause">onPause():</string>
+    <string name="onstop">onStop():</string>
+    <string name="ondestroy">onDestroy():</string>
+    <string name="goFirst">Go back to first activity</string>
+    <string name="second">Second Activity</string>
+</resources>
