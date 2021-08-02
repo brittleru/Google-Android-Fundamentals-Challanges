@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Styles-CardViewHobby</string>
+    <string name="my_hobby">My Hobby</string>
+    <string name="hobbyText">One of my favourite is playing guitar :D</string>
+    <string name="guitarText">That\'s my guitar model</string>
+    <string name="nume">Sebastian Mocanu</string>
+    <string name="email">smocanu10@yahoo.com</string>
+    <string name="together">Let\'s work together</string>
+    <string name="work_with_me">Work with me</string>
+</resources>
