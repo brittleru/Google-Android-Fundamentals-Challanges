@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Styles-CustomDateTimePicker</string>
+    <string name="pick_a_date">Pick a Date</string>
+    <string name="pick_a_time">Pick a time</string>
+    <string name="pick_a_date_and_a_date">Pick a date and a date</string>
+    <string name="date_and_time_picker">Date and Time Picker</string>
+    <string name="submit">Submit</string>
+</resources>
