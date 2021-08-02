@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fragments-TabsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="favFoodTitle">This is my Favourite Food</string>
+    <string name="favFoodText">So my favourite food is Profiterole with Raspberries </string>
+
+    <string name="favPetTitle">This is my Favourite Pet</string>
+    <string name="favPetText">I love Tigers I can\'t have one as a pet so my favourite pet is the fat cat</string>
+
+    <string name="favMovieTitle">This is my Favourite Movie</string>
+    <string name="favMovieText">My favourite movie is The Prestige</string>
+</resources>
