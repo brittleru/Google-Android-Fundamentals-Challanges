@@ -177,8 +177,11 @@ The Task object should contain:
 - Worked time
 - Project ID
 </br></br>
+
 #### My solution
+
 ![Store data Challenge 2 Solution v1](https://github.com/brittleru/Google-Android-Fundamentals-Challenges/blob/main/README-imgs/course-9/storedata-solution-no2-v1.png?raw=true)
+</br>
 ![Store data Challenge 2 Solution v2](https://github.com/brittleru/Google-Android-Fundamentals-Challenges/blob/main/README-imgs/course-9/storedata-solution-no2-v2.png?raw=true)
 
 ## Course 10 - Demo Day
