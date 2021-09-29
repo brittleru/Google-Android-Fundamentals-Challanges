@@ -21,15 +21,18 @@ Build the next layout:
 - please validate the data, all the fields are required
 - the email address field should contain a valid email address (Hint: use Regex) </br></br>
 ![ViewGroups Challenge 1](https://github.com/brittleru/Google-Android-Fundamentals-Challenges/blob/main/README-imgs/course-3/viewgroups-chall-no1.png?raw=true)
+
 #### My solution
 For the email validation I used the Matcher and Pattern classes from `java.util.regex`, I used a pattern for email and compiled intro a variable that is Pattern type, after that I wrote a method that check if the introduced email matches the pattern, the method has a `boolean` return type. </br>
 
 <img src="https://github.com/brittleru/Google-Android-Fundamentals-Challenges/blob/main/README-imgs/course-3/viewgroups-solution-no1-v1.png?raw=true" alt="ViewGroups Challenge 1 Solution" width="600px">
+
 ### Code Challenge No. 2 - ScrollArray
 Build the next layouts by using:
 - `ScrollView` and `RelativeLayout` for the screen no. 1 and no. 2
 - `FrameLayout` for the screen no. 3
 - `Spinner` for the screen no. 4 and no. 5 </br></br>
+
 ![ViewGroups Challenge 2](https://github.com/brittleru/Google-Android-Fundamentals-Challenges/blob/main/README-imgs/course-3/viewgroups-chall-no2.png?raw=true)
 #### My solution
 At this challenge for the spinner I used `simple_spinner_item` for the layout and I hardcoded the data-source for it in an ArrayList wtih Android versions, after that I wrote a simple method for the adapter. 
