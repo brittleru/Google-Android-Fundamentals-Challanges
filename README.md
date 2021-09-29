@@ -40,9 +40,13 @@ This course mainly focused on `RecyclerView` and `ConstraintLayout`, with their 
 ![Complex Views Challenge 1](https://github.com/brittleru/Google-Android-Fundamentals-Challenges/blob/main/README-imgs/course-4/complexviews-chall-no1.png?raw=true)
 #### My solution
 <img src="https://github.com/brittleru/Google-Android-Fundamentals-Challenges/blob/main/README-imgs/course-4/complexviews-solution-no1-v1.jpeg?raw=true" alt="Complex Views Challenge 1 Solution" width="300px">
+
 ### Code Challenge No. 2 - Students:
+
 Create a `RecyclerView` that contains a list of students. A student has a first name and a last name. Alternate the background of the item based on its index. Hint: use the adapter. </br></br>
+
 ![Complex Views Challenge 2](https://github.com/brittleru/Google-Android-Fundamentals-Challenges/blob/main/README-imgs/course-4/complexviews-chall-no2.png?raw=true)
+
 #### My solution
 Here I also added the option to add and to delete a student. </br></br>
 <img src="https://github.com/brittleru/Google-Android-Fundamentals-Challenges/blob/main/README-imgs/course-4/complexviews-solution-no2-v1.jpeg?raw=true" alt="Complex Views Challenge 2 Solution" width="300px">
@@ -59,11 +63,17 @@ In this course we learned about `Activity` Lifecycle, implicit and explicit `Int
 Create two activities and implement all the methods from the activity lifecycle. On the first activity add a button that will redirect the user to the second activity. Inside of each method add a Log message with the name of the current class and the name of the method. Analyze the messages on the Logcat
 #### My solution
 <img src="https://github.com/brittleru/Google-Android-Fundamentals-Challenges/blob/main/README-imgs/course-5/activityandintent-solution-no1.png?raw=true" alt="Activities and Intents Challenge 1 Solution" width="600px">
+
 ### Code Challenge No. 2 - Passage Activity:
+
 Create an app/activity with three Button elements labeled Text One, Text Two, and Text Three. When any of these Button elements are clicked, launch a second Activity. That second Activity should contain a ScrollView that displays one of three text passages (you can include your choice of passages). Use an Intent to launch the second Activity with extras to indicate which of the three passages to display.
+
 #### My solution
+
 ![Activities and Intents Challenge 2 Solution](https://github.com/brittleru/Google-Android-Fundamentals-Challenges/blob/main/README-imgs/course-5/activityandintent-solution-no2.png?raw=true)
+
 ### Code Challenge No. 3 - Chat App:
+
 Create 2 activities: Activity1 and Activity2. Each activity has an EditText and a Button displayed on the bottom of the screen. On top of the screen, each activity has 2 TextViews, one after the other one, in a vertical position. The first TextView is bold. </br>
 Flow to cover:
 - The user opens Activity1, writes a message in EditText, clicks on the SEND button and the text is sent to Activity2. In this step, in Activity1, both TextViews from the top are empty.
@@ -71,8 +81,11 @@ Flow to cover:
 - In Activity2 the user writes a message in EditText and clicks SEND
 - Activity2 is destroyed (closed) and Activity1 appears.
 - In Activity1, on top of the screen, the first TextView is populated with "Reply received" and the second one with the message received from Activity2. </br></br>
+
 ![Activities and Intents Challenge 3](https://github.com/brittleru/Google-Android-Fundamentals-Challenges/blob/main/README-imgs/course-5/activityandintent-chall-no3.png?raw=true)
+
 #### My solution
+
 <img src="https://github.com/brittleru/Google-Android-Fundamentals-Challenges/blob/main/README-imgs/course-5/activityandintent-solution-no3.png?raw=true" alt="Activities and Intents Challenge 3 Solution" width="600px">
 
 ### Code Challenge No. 4 - Share data:
@@ -90,17 +103,22 @@ This course was about `Fragmens`, more exactly their usage, their lifecycle and 
 ### Code Challenge No. 1-5 - Slides:
 Create a comunication between Fragment and Activity using Bundle, methods and interface listener.
 #### My solution
+
 <img src="https://github.com/brittleru/Google-Android-Fundamentals-Challenges/blob/main/README-imgs/course-6/fragments-solution-no5-v1.jpeg?raw=true" alt="Fragments Challenge 1-5 Solution" width="300px">
+
 ### Code Challenge No. 6 - Navigation Drawer:
 Create a new app with a navigation drawer. When the user taps a navigation drawer choice, close the drawer and display a Toast message showing which choice was selected.
 #### My solution
+
 ![Fragments Challenge 6 Solution](https://github.com/brittleru/Google-Android-Fundamentals-Challenges/blob/main/README-imgs/course-6/fragments-solution-no6.png?raw=true)
+
 ### Code Challenge No. 7 (*optional) - Tabs App:
 Create a new app with 3 tabs that contain:
 - The first tab contains the name and the poster of your favorite movie
 - The second tab contains a picture of your favorite pet
 - The third tab contains the name and the picture of your favorite food
 #### My solution
+
 ![Fragments Challenge 7 Solution](https://github.com/brittleru/Google-Android-Fundamentals-Challenges/blob/main/README-imgs/course-6/fragments-solution-no7.png?raw=true)
 
 
@@ -156,19 +174,25 @@ Implement a registration screen and save the data in SharedPreferences. The scre
 - Display data(`TextView`)
 - Show (`Button`) - will display the data from SharedPreferences or the "Empty" word if it's empty. </br></br>
 #### My solution
+
 <img src="https://github.com/brittleru/Google-Android-Fundamentals-Challenges/blob/main/README-imgs/course-9/storedata-solution-no1.png?raw=true" alt="Store data Challenge 1 Solution" width="600px">
+
 ### Code Challenge No. 2 - Project Manager:
+
 Build your own database with Projects and create the next screens:
 - A screen to display the list of the saved projects
 - A screen to add or edit a current project
 - A screen to display the tasks from a selected project
 - A screen to add or edit a task from a selected project </br></br>
+
 The data will be saved in an SQLite database using Room. </br></br>
+
 The Project object should contain:
 - ID
 - Name
 - Description
 - Estimated Hours </br></br>
+
 The Task object should contain:
 - ID
 - Name
